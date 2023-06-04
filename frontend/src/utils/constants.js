@@ -1,0 +1,2 @@
+// Lit NFT Contract Address
+export const LIT_NFT_CONTRACT_ADDRESS = "0x7bE8359ff9920f410918F3f8E92a9Fa7D7fd264d";
